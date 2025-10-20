@@ -1,26 +1,50 @@
-# Professional-profile
-Hi, I’m Erik Warren
+# 👋 Hi, I'm Erik Warren
 
-I’m a Leadership & Professional Development Coach and Remote Property Operations Specialist with 10+ years of experience in property management, consulting, and team leadership.
+I’m a **Leadership & Professional Development Coach** and **Remote Property Operations Specialist** with over a decade of experience in property management, consulting, and operations. I help teams streamline communication, optimize workflows, and develop leadership strategies that drive results.
 
-💼 Areas of expertise:
+---
 
-Remote operations and client communication
+## 🧭 About Me
+- 🌎 Based in Arizona | U.S. Citizen | Working remotely with global teams  
+- 🧩 Experienced in property management systems (AppFolio, Front, Slack, CRMs, DocuSign)  
+- 📊 Skilled in operations, automation setup (Google Sheets, Zapier, AI tools), and team development  
+- 💬 Passionate about personal growth, leadership coaching, and efficient remote systems  
 
-Property management systems (AppFolio, Front, CRMs)
+---
 
-Process documentation & workflow optimization
+## 🧰 Core Skills
+| Category | Skills |
+|-----------|--------|
+| **Property Management** | Tenant & owner communication, inspections, maintenance coordination, deposits |
+| **Operations & Support** | CRM management, document control, scheduling, remote workflow systems |
+| **Leadership Coaching** | Emotional intelligence, mindset training, accountability systems |
+| **Tools & Tech** | AppFolio, Front, Google Workspace, Zapier, Canva, AI tools, Slack |
 
-Leadership and mindset coaching
+---
 
-🚀 Current Projects:
+## 🚀 Projects & Highlights
+### 🏠 Property Navigator
+A developing **property management SaaS platform** built to automate rent collection, maintenance requests, and communication between tenants and owners.
 
-Developing Property Navigator — a property management automation platform.
+### ☕ Koffeeshot Consulting
+Personal development and leadership coaching focused on mindset, clarity, and performance for entrepreneurs and professionals.
 
-Coaching professionals and entrepreneurs through Koffeeshot Consulting.
+### 🧩 Remote Operations Portfolio
+Sample workflows, process templates, and automation ideas designed for property management and virtual assistance.
 
-📫 Get in Touch:
+---
 
-LinkedIn: www.linkedin.com/in/erik-warren-7134723a/
+## 💡 What I’m Working On
+- Building scalable remote operations for property management companies  
+- Coaching emerging leaders to improve communication and self-management  
+- Expanding virtual assistant training for property and operations roles  
 
-Email: erik.warren@icloud.com
+---
+
+## 📫 Let’s Connect
+- 📧 [Email Me](erik.warren@icloud.com)
+- 💼 [LinkedIn](www.linkedin.com/in/erik-warren-7134723a)
+
+---
+
+⭐ *“Clarity creates momentum — and momentum creates results.”*
